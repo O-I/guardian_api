@@ -1,6 +1,6 @@
 # guardian_api
 
-Ruby wrapper for (The Guardian Content API)[http://guardian.github.io/open-platform-site/documentation/]
+Ruby wrapper for [The Guardian Content API](http://guardian.github.io/open-platform-site/documentation/)
 
 ## Contributing to guardian_api
 
