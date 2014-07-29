@@ -6,11 +6,15 @@ module Guardian
 
     private
 
-    def request(method, path, options)
+    def request(method, path, options = {})
       response = connection.send(method) do |request|
-        request.url(path, options)
+        request.url(path, options.merge(auth))
       end
       response.body
+    end
+
+    def auth
+      { 'api-key' => api_key }
     end
   end
 end

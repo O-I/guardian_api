@@ -3,7 +3,7 @@ require 'faraday_middleware'
 module Guardian
   module Connection
 
-    BASE_API_URL = 'http://content.guardianapis.com/'
+    BASE_API_URL = 'http://beta.content.guardianapis.com/'
 
     private
 
