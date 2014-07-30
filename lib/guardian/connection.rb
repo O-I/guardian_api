@@ -3,14 +3,12 @@ require 'faraday_middleware'
 module Guardian
   module Connection
 
-    BASE_API_URL = 'http://beta.content.guardianapis.com/'
-
     private
 
     def connection
       options = {
         ssl: { verify: false },
-        url: BASE_API_URL
+        url: base_url
       }
 
       Faraday.new(options) do |connection|
