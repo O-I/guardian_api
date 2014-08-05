@@ -1,3 +1,5 @@
+require_relative 'guardian/client'
+
 module Guardian
   class << self
     # Alias for Guardian::Client.new
