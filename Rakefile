@@ -12,13 +12,15 @@ end
 require 'rake'
 
 require 'jeweler'
+require './lib/guardian/version.rb'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "guardian_api"
+  gem.version = Guardian::Version
   gem.homepage = "http://github.com/O-I/guardian_api"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Ruby wrapper for the Guardian Content API}
+  gem.description = %Q{Ruby client for the Guardian Open Platform}
   gem.email = "hore.rahul@gmail.com"
   gem.authors = ["Rahul Horé"]
   # dependencies defined in Gemfile
@@ -35,7 +37,7 @@ task :default => :spec
 
 require 'rdoc/task'
 Rake::RDocTask.new do |rdoc|
-  version = File.exist?('VERSION') ? File.read('VERSION') : ""
+  version = Guardian::Version
 
   rdoc.rdoc_dir = 'rdoc'
   rdoc.title = "guardian_api #{version}"
