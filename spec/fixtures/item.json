@@ -1,0 +1,16 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1,
+    "content": {
+      "webTitle": "Why is Thomas Piketty's 700-page book a bestseller?",
+      "webPublicationDate": "2014-09-21T16:00:09Z",
+      "sectionName": "Money",
+      "sectionId": "money",
+      "id": "money/2014/sep/21/-sp-thomas-piketty-bestseller-why",
+      "webUrl": "http://www.theguardian.com/money/2014/sep/21/-sp-thomas-piketty-bestseller-why",
+      "apiUrl": "http://content.guardianapis.com/money/2014/sep/21/-sp-thomas-piketty-bestseller-why"
+    }
+  }
+}

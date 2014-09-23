@@ -1,0 +1,104 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1690975,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 169098,
+    "orderBy": "newest",
+    "results": [
+      {
+        "webTitle": "Poll bounce for Tony Abbott with parliament to debate terror laws – politics live",
+        "webPublicationDate": "2014-09-23T00:11:49Z",
+        "sectionName": "World news",
+        "sectionId": "world",
+        "id": "world/live/2014/sep/23/poll-bounce-for-tony-abbott-with-parliament-to-debate-terror-laws-politics-live",
+        "webUrl": "http://www.theguardian.com/world/live/2014/sep/23/poll-bounce-for-tony-abbott-with-parliament-to-debate-terror-laws-politics-live",
+        "apiUrl": "http://content.guardianapis.com/world/live/2014/sep/23/poll-bounce-for-tony-abbott-with-parliament-to-debate-terror-laws-politics-live"
+      },
+      {
+        "webTitle": "Make all state schools academies, says report by rightwing thinktank",
+        "webPublicationDate": "2014-09-22T23:47:32Z",
+        "sectionName": "Education",
+        "sectionId": "education",
+        "id": "education/2014/sep/23/state-schools-academies-report-thinktank-michael-gove",
+        "webUrl": "http://www.theguardian.com/education/2014/sep/23/state-schools-academies-report-thinktank-michael-gove",
+        "apiUrl": "http://content.guardianapis.com/education/2014/sep/23/state-schools-academies-report-thinktank-michael-gove"
+      },
+      {
+        "webTitle": "Barclays hit by new £38m fine over client assets",
+        "webPublicationDate": "2014-09-22T23:41:55Z",
+        "sectionName": "Business",
+        "sectionId": "business",
+        "id": "business/2014/sep/23/barclays-fine-38m-failing-separate-client-assets",
+        "webUrl": "http://www.theguardian.com/business/2014/sep/23/barclays-fine-38m-failing-separate-client-assets",
+        "apiUrl": "http://content.guardianapis.com/business/2014/sep/23/barclays-fine-38m-failing-separate-client-assets"
+      },
+      {
+        "webTitle": "Ed Miliband comes under pressure to back Britain in/out referendum on EU",
+        "webPublicationDate": "2014-09-22T23:23:24Z",
+        "sectionName": "Politics",
+        "sectionId": "politics",
+        "id": "politics/2014/sep/23/ed-miliband-britain-referendum-eu",
+        "webUrl": "http://www.theguardian.com/politics/2014/sep/23/ed-miliband-britain-referendum-eu",
+        "apiUrl": "http://content.guardianapis.com/politics/2014/sep/23/ed-miliband-britain-referendum-eu"
+      },
+      {
+        "webTitle": "Half of children leave reception unready for school – report",
+        "webPublicationDate": "2014-09-22T23:05:01Z",
+        "sectionName": "Education",
+        "sectionId": "education",
+        "id": "education/2014/sep/23/half-children-reception-unready-school",
+        "webUrl": "http://www.theguardian.com/education/2014/sep/23/half-children-reception-unready-school",
+        "apiUrl": "http://content.guardianapis.com/education/2014/sep/23/half-children-reception-unready-school"
+      },
+      {
+        "webTitle": "BBC retunes gender gap on local radio",
+        "webPublicationDate": "2014-09-22T23:01:09Z",
+        "sectionName": "Media",
+        "sectionId": "media",
+        "id": "media/2014/sep/23/bbc-retunes-gender-gap-local-radio",
+        "webUrl": "http://www.theguardian.com/media/2014/sep/23/bbc-retunes-gender-gap-local-radio",
+        "apiUrl": "http://content.guardianapis.com/media/2014/sep/23/bbc-retunes-gender-gap-local-radio"
+      },
+      {
+        "webTitle": "David Cameron to meet Iran leader over Isis campaign",
+        "webPublicationDate": "2014-09-22T23:01:09Z",
+        "sectionName": "Politics",
+        "sectionId": "politics",
+        "id": "politics/2014/sep/23/cameron-rouhani-meet-new-york-talks-isis",
+        "webUrl": "http://www.theguardian.com/politics/2014/sep/23/cameron-rouhani-meet-new-york-talks-isis",
+        "apiUrl": "http://content.guardianapis.com/politics/2014/sep/23/cameron-rouhani-meet-new-york-talks-isis"
+      },
+      {
+        "webTitle": "School’s quality does not affect gaps in attainment, research shows",
+        "webPublicationDate": "2014-09-22T23:01:07Z",
+        "sectionName": "Education",
+        "sectionId": "education",
+        "id": "education/2014/sep/23/school-quality-gap-attainment-research",
+        "webUrl": "http://www.theguardian.com/education/2014/sep/23/school-quality-gap-attainment-research",
+        "apiUrl": "http://content.guardianapis.com/education/2014/sep/23/school-quality-gap-attainment-research"
+      },
+      {
+        "webTitle": "Channel 4 series to take ‘warts and all’ look at Luton police station",
+        "webPublicationDate": "2014-09-22T23:01:01Z",
+        "sectionName": "Television &amp; radio",
+        "sectionId": "tv-and-radio",
+        "id": "tv-and-radio/2014/sep/23/luton-police-station-channel-4-series",
+        "webUrl": "http://www.theguardian.com/tv-and-radio/2014/sep/23/luton-police-station-channel-4-series",
+        "apiUrl": "http://content.guardianapis.com/tv-and-radio/2014/sep/23/luton-police-station-channel-4-series"
+      },
+      {
+        "webTitle": "Sudoku 2,923 medium ",
+        "webPublicationDate": "2014-09-22T23:01:00Z",
+        "sectionName": "Life and style",
+        "sectionId": "lifeandstyle",
+        "id": "lifeandstyle/2014/sep/23/sudoku-2923-medium",
+        "webUrl": "http://www.theguardian.com/lifeandstyle/2014/sep/23/sudoku-2923-medium",
+        "apiUrl": "http://content.guardianapis.com/lifeandstyle/2014/sep/23/sudoku-2923-medium"
+      }
+    ]
+  }
+}
