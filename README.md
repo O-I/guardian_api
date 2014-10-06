@@ -1,6 +1,7 @@
 # guardian_api
 
 [![Build Status](https://travis-ci.org/O-I/guardian_api.svg?branch=master)](https://travis-ci.org/O-I/guardian_api)
+[![Coverage Status](https://img.shields.io/coveralls/O-I/guardian_api.svg)](https://coveralls.io/r/O-I/guardian_api?branch=master)
 
 Ruby wrapper for [The Guardian Content API](http://guardian.github.io/open-platform-site/documentation/)
 
