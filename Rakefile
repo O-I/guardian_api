@@ -23,6 +23,9 @@ Jeweler::Tasks.new do |gem|
   gem.description = %Q{Ruby client for the Guardian Open Platform}
   gem.email = "hore.rahul@gmail.com"
   gem.authors = ["Rahul Horé"]
+  gem.required_ruby_version = '>= 1.9.3'
+  gem.files = FileList['lib/**/*.rb']
+  gem.test_files = []
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
