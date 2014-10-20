@@ -4,13 +4,11 @@ require_relative 'version'
 module Guardian
   module Connection
 
-    HEADERS = { user_agent: "guardian_api gem #{Guardian::Version}" }
-
     private
 
     def connection
       options = {
-        headers: HEADERS,
+        headers: headers,
         ssl: { verify: false },
         url: base_url
       }
