@@ -38,7 +38,7 @@ AUTH = '?api-key=1234'
 def stub_get(path, options = {})
   file = options.delete(:returns)
   endpoint = Guardian::Configuration::DEFAULT_BASE_URL + path + AUTH
-  headers = Guardian::Connection::HEADERS
+  headers = Guardian::Configuration::DEFAULT_HEADERS
   stub_request(:get, endpoint)
     .with(headers: headers)
     .to_return(body: fixture(file))
